@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohithkanchukatla
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently pursuing Masters in CS at SEMO,USA
+- 🌱 I have completed my Master's in CS from SEMO.
 - 💞️ I’m looking to collaborate on topics related to data
 - 📫 you can reach me @rohithpatelkanchukatla@gmail.com
 
